@@ -22,15 +22,7 @@ Most beginner RAG projects retrieve context, generate an answer, and stop — wi
 
 ---
 
-## 🖼️ Demo
-
-*(Add a screenshot of your app here — drag your image into this README on GitHub, or reference it like below)*
-
-```
-![App Screenshot](screenshot.png)
-```
-
-**🔗 Live Demo:** [Add your deployed Streamlit link here once live]
+**🔗 Live Demo:** https://rag---uncertainty---estimator-k95daobub7k9j8admqnvau.streamlit.app/
 
 ---
 
